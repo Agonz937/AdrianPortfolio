@@ -1,2 +1,2 @@
 # AdrianPortfolio
-My portfolio for companies to see my work and resume.
+My portfolio for companies to see my previous/current projects and along with my resume.
